@@ -1,1 +1,2 @@
 # Inventory Log
+Laptop - Assigned
